@@ -4,10 +4,15 @@ body {
 
 .App {
   text-align: center;
+
 }
 
 h1 {
   font-family: 'Bigelow Rules';
-  font-size: 72px;
+  font-size: 30px;
   color: #0ccac4;
+}
+img{
+
+  object-fit: cover;
 }
